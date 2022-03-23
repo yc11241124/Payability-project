@@ -1,3 +1,3 @@
 # Payability
 
-# Git hub for detect fraud transactions
+# Github for detecting fraud transactions
